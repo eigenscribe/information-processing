@@ -1,7 +1,7 @@
 # Research Interests
 🔗[Research Gate reading list](https://www.researchgate.net/profile/Lauren-Shriver-2/savedlist)
 
-## Consciousness
+## Consciousness 🧠
 🗒️[Collins, A.L. (2015). Orchestrated Objective Reduction : Quantum Physics and its Implications in Human Consciousness.](https://www.wm.edu/as/physics/documents/seniorstheses/class2015theses/Collins_Amanda.pdf)  
 
 🗒️[Craddock, T.J., Tuszynski, J.A., & Hameroff, S.R. (2012). Cytoskeletal Signaling: Is Memory Encoded in Microtubule Lattices by CaMKII Phosphorylation? PLoS Computational Biology, 8.](https://pdfs.semanticscholar.org/8461/661058d0355a12eb6aafd497a393b0f6ee3e.pdf)
@@ -11,5 +11,5 @@
 
 
 
-## Geometric Algebra
+## Geometric Algebra 📐
 🗒️[Selig, J.M. (2000). Clifford algebra of points, lines and planes. Robotica, 18, 545 - 556.](https://openresearch.lsbu.ac.uk/download/d5d41bc21f327a8d288b100e2b658ab4a82985dbbacf909e0c791fddd50d1223/186156/Cliff.pdf)
