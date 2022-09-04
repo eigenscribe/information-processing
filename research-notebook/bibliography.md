@@ -1,4 +1,4 @@
-# References
+# Bibliography 
 
 ## Geometric Algebra 📐
 📃[Hestenes (2005). Primer on Geometric Algebra
